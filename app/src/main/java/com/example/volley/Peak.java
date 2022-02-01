@@ -17,6 +17,9 @@ public class Peak {
         this.country = country;
     }
 
+    public Peak() {
+    }
+
     public String getName() {
         return name;
     }
